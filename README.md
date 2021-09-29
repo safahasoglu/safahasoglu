@@ -6,7 +6,7 @@ My Education:
 - I am currently studying at a private science high school.
 
 Content I have on the page: 
-DBM events, commands; python projects, C++ projects. For now.
+DBM events, commands; python projects, C projects. For now.
 
 - 🔭 I’m currently working on robotic process automation.
 - 🌱 I’m currently learning UiPath, C, C++, robotic process automation.
